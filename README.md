@@ -1,11 +1,10 @@
 # filesManagerSystem
 
-├─fileSave                   // 存放项目文件  
-├─fileStorage                // 存放完成、删除、备份、下载文件  
-├─filesystem_back            // 后端Php源代码（默认账号/密码：admin/admin）  
-├─filesystem_front           // 前端Vue源代码  
-├─company_file_system.sql    // 数据库结构（内容除一组账号外为空）  
-└─源代码包结构.txt  
+├─CsMain                     // 使用C#编写的主程序源代码（默认账号/密码：admin/admin）  
+├─PyDataAnsys                // 使用Pyhon编写的数据分析部分源代码  
+├─work_info.db3              // 数据库结构（内容除一组账号外为空）  
+├─使用说明-v1.2.docx          // 详细的软件说明  
+└─源代码包结构.txt
 
 作品亮点：   
 1.已投入车间实际使用，半年内除新增功能外，一直稳定运作无维护请求；  
